@@ -1,1 +1,3 @@
-Hello the file has been created 
+Hello the file has been created
+
+The second line is added into the file 
